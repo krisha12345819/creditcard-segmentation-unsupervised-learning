@@ -198,7 +198,24 @@ creditcard-segmentation-unsupervised-learning/
     ├── DBSCAN_Clusters.png
     └── DBSCAN_Hyperparameter_Tuning.png
 ```
+---
 
+## 🎥 Project Explanation Video
+
+<p align="center">
+
+[![Watch the Project Explanation](https://img.shields.io/badge/▶️%20Watch%20Project%20Explanation-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1ii3Di_ZhXWD2X2b5_3tiWdmQB1HEx0xX/view?usp=sharing)
+
+</p>
+
+> 📺 Click the button above to watch the complete project explanation, including:
+>
+> - 📊 Dataset Overview
+> - 🧹 Data Preprocessing
+> - ⚙️ Feature Engineering
+> - 🤖 K-Means, Agglomerative & DBSCAN
+> - 📈 Model Evaluation
+> - 💼 Business Insights & Conclusion
 ---
 
 ## 🚀 Getting Started
